@@ -6,5 +6,5 @@ leetcode practice with python(for now)
 3. Longest Substring(medium): String/Hashmap
 4. 
 5. Longest Palindromic Substring(medium): Dynamic programming, palindromic string
-6. 
+6. ZigZag Conversion(medium): 2-dimensional array, Categorized discussion
 7. Reversed Integer(easy): use a list to reverse an integer 
