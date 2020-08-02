@@ -1,10 +1,10 @@
-# leetcode
-leetcode practice with python(for now)
+# Leetcode
+
+* Starting from 2020/08/02
+* Leetcode practice with Python (for now)
+* Daily Challenge + Selected Questions From [algorithm-pattern](https://github.com/greyireland/algorithm-pattern)
+* Using Leetcode Plugin for [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode) 
+
 ## Solutions
-1. Two Sum(easy): Searching with Hashmap
-2. Add Two Numbers(medium): Linked List and Conditions
-3. Longest Substring(medium): String/Hashmap
-4. Median of Two sorted Arrays: Binary Search
-5. Longest Palindromic Substring(medium): Dynamic Programming, Palindromic String
-6. ZigZag Conversion(medium): 2-dimensional Array, Categorized Discussion
-7. Reversed Integer(easy): Use a list to reverse an integer 
+
+[114] Flatten Binary Tree to Linked List (Daily Challenge 2020/08/02)
