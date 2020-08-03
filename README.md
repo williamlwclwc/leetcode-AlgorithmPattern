@@ -7,5 +7,5 @@
 
 ## Solutions
 
-[114] Flatten Binary Tree to Linked List (Daily Challenge 2020/08/02)
-[415] Add Strings (Daily Challenge 2020/08/03)
+* [114] Flatten Binary Tree to Linked List (Daily Challenge 2020/08/02)
+* [415] Add Strings (Daily Challenge 2020/08/03)
