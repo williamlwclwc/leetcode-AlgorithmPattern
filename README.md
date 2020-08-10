@@ -17,3 +17,4 @@
 | 336  |          Palindrome Pairs          |      回文对      |  Hash Table, Trie Tree / 哈希表，字典树   | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/336.palindrome-pairs.md) | Daily Challenge 2020/08/06 |
 | 337  |          House Robber III          |     打家劫舍     |    DP, Binary Tree / 动态规划，二叉树     | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/337.house-robber-iii.md) | Daily Challenge 2020/08/05 |
 | 415  |            Add Strings             |    字符串相加    |   String, Two Pointers / 字符串，双指针   | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/415.add-strings.md) | Daily Challenge 2020/08/03 |
+| 696  |      Count Binary Substrings       |  计数二进制子串  |              String / 字符串              | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/696.count-binary-substrings.md) | Daily Challenge 2020/08/10 |
