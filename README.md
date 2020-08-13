@@ -9,6 +9,7 @@
 
 |  ID  |           English Title            |   中文题目名称   |                 Category                  |                          Notes URI                           |        Description         |
 | :--: | :--------------------------------: | :--------------: | :---------------------------------------: | :----------------------------------------------------------: | :------------------------: |
+|  43  |          Multiply Strings          |    字符串相乘    |              String / 字符串              | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/43.multiply-strings.md) | Daily Challenge 2020/08/13 |
 |  93  |        Restore IP Addresses        |    复原IP地址    |             Recursion / 递归              | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/93.restore-ip-addresses.md) | Daily Challenge 2020/08/09 |
 |  99  |     Recover Binary Search Tree     |  恢复二叉搜索树  |             BST / 二叉搜索树              | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/99.recover-binary-search-tree.md) | Daily Challenge 2020/08/08 |
 | 100  |             Same Tree              |     相同的树     |           Binary Tree / 二叉树            |                         递归遍历即可                         | Daily Challenge 2020/08/07 |
