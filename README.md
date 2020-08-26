@@ -9,6 +9,7 @@
 
 |  ID  |               English Title               |      中文题目名称      |                         Category                          |                          Notes URI                           |        Description         |
 | :--: | :---------------------------------------: | :--------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: | :------------------------: |
+|  17  |   Letter Combinations of a Phone Number   |   电话号码的字母组合   |            回溯法，递归 / Backtrack，Recursion            |                          回溯+递归                           | Daily Challenge 2020/08/26 |
 |  20  |             Valid Parentheses             |       有效的括号       |                        Stack / 栈                         |                         用栈实现配对                         | Daily Challenge 2020/08/14 |
 |  43  |             Multiply Strings              |       字符串相乘       |                      String / 字符串                      | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/43.multiply-strings.md) | Daily Challenge 2020/08/13 |
 |  93  |           Restore IP Addresses            |       复原IP地址       |                     Recursion / 递归                      | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/93.restore-ip-addresses.md) | Daily Challenge 2020/08/09 |
