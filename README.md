@@ -31,6 +31,7 @@
 | 491  |          Increasing Subsequences          |       递增子序列       |                DFS, Recursion / 深搜，递归                | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/491.increasing-subsequences.md) | Daily Challenge 2020/08/25 |
 | 529  |                Minesweeper                |        扫雷游戏        |                   BFS, DFS / 深搜，广搜                   |                       注意搜索不要重复                       | Daily Challenge 2020/08/20 |
 | 546  |               Remove Boxes                |        移除盒子        |                       DP / 动态规划                       |                                                              | Daily Challenge 2020/08/15 |
+| 557  |       Reverse Words in a String III       | 反转字符串中的单词 III |                      String / 字符串                      |                       split翻转再join                        | Daily Challenge 2020/08/30 |
 | 647  |          Palindromic Substrings           |        回文子串        |                      String / 字符串                      |                          纯暴力即可                          | Daily Challenge 2020/08/19 |
 | 657  |          Robot Return to Origin           |   机器人能否返回原点   |                        Loop / 循环                        |                         循环计数即可                         | Daily Challenge 2020/08/28 |
 | 679  |                  24 Game                  |        24点游戏        |           Recursion or enumeration / 递归或枚举           |                            枚举法                            | Daily Challenge 2020/08/22 |
