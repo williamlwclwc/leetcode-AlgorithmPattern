@@ -38,3 +38,4 @@
 | 679  |                  24 Game                  |        24点游戏        |           Recursion or enumeration / 递归或枚举           |                            枚举法                            | Daily Challenge 2020/08/22 |
 | 696  |          Count Binary Substrings          |     计数二进制子串     |                      String / 字符串                      | [md](https://github.com/williamlwclwc/leetcode/blob/master/Notes/696.count-binary-substrings.md) | Daily Challenge 2020/08/10 |
 | 733  |                Flood Fill                 |        图像渲染        |                     Recursion / 递归                      |                           递归即可                           | Daily Challenge 2020/08/16 |
+| 841  |              Keys and Rooms               |       钥匙和房间       |                   DFS, BFS / 深搜，广搜                   |                       转换为图搜索即可                       | Daily Challenge 2020/08/31 |
