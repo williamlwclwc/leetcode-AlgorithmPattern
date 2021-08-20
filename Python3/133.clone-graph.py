@@ -80,5 +80,34 @@ class Solution:
         
         # after BFS
         return visited[node]
+
+# Solution 3: DFS Stack
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val = 0, neighbors = None):
+        self.val = val
+        self.neighbors = neighbors if neighbors is not None else []
+"""
+
+class Solution:
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        if node == None:
+            return None
+        visited = {}
+        stack = []
+        result = None
+        stack.append(node)
+        visited.update({node:Node(node.val)})
+        while len(stack) != 0:
+            ele = stack.pop()
+            neighbors = ele.neighbors
+            for neighbor in neighbors:
+                if visited.get(neighbor) == None:
+                    visited.update({neighbor:Node(neighbor.val)})
+                    stack.append(neighbor)
+                visited[ele].neighbors.append(visited[neighbor])
+        return visited[node]
+
 # @lc code=end
 
